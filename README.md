@@ -1,2 +1,2 @@
 # Foresight-BI-Dashboard
-Dashboard to monitor key sales metrics
+PowerBI dashboard to monitor key sales and transaction metrics
